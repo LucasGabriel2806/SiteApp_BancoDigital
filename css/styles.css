@@ -332,9 +332,7 @@ header {
 .title span {
   color: var(--clr-secondary);
 }
-#about,
-#services,
-#tours {
+#about{
   height: 80vh;
 }
 #services {
@@ -385,3 +383,24 @@ footer p {
     transform: scale(1);
   }
 }
+
+/** BOTÃO DOWNLOAD */
+.btn-download {
+
+  /**margin-top: 300px;*/
+  background-color: yellow;
+  color: blue;
+  border-color: blue;
+  border-radius: 50px;
+  padding: 20px;
+  font-size: 20px;
+
+}
+
+p{
+
+  margin: 30px;
+
+}
+
+
