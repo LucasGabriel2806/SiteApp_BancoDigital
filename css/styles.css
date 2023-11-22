@@ -404,3 +404,21 @@ p{
 }
 
 
+/** IMAGENS */
+.img-telaApp {
+  margin: 50px !important; 
+  width: 20% !important; 
+  height: 20% !important; 
+  display:inline !important; 
+  z-index: 1 !important; 
+  border: 10px solid black !important;
+  border-radius: 20px !important;
+}
+
+.img-base {
+  margin: 50px !important; 
+  width: 20% !important; 
+  height: 20% !important; 
+  display:inline !important; 
+  z-index: 1 !important; 
+}
