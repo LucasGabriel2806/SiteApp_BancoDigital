@@ -333,7 +333,7 @@ header {
   color: var(--clr-secondary);
 }
 #about{
-  height: 80vh;
+  height: 90vh;
 }
 #services {
   background: var(--clr-white);
@@ -390,7 +390,7 @@ footer p {
   /**margin-top: 300px;*/
   background-color: yellow;
   color: blue;
-  border-color: blue;
+  border: 2px solid blue;
   border-radius: 50px;
   padding: 20px;
   font-size: 20px;
@@ -421,4 +421,36 @@ p{
   height: 20% !important; 
   display:inline !important; 
   z-index: 1 !important; 
+}
+
+/** 3 Telas do App */
+.images1 {
+  margin-left: 15%;
+}
+
+/** 2 Telas do App */
+.images2 {
+  margin-left: 15%;
+}
+
+/** Imagens da área de download */
+.images3 {
+  margin-left: 30%;
+}
+
+.area-download {
+  margin-left: 37%;
+}
+
+.area-download a {
+  margin-left: 10%;
+}
+
+.img-etec {
+  width: 800px !important;
+}
+
+.area-sobrenos {
+  margin-left: 10%;
+  margin-top: 10%;
 }
