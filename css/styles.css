@@ -333,7 +333,7 @@ header {
   color: var(--clr-secondary);
 }
 #about{
-  height: 90vh;
+  height: 120vh;
 }
 #services {
   background: var(--clr-white);
